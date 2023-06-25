@@ -1,0 +1,14 @@
+2a60927148abd1d33b818b535e306557
+::res://::1687461107
+2352.jpg::CompressedTexture2D::8779437748987914336::1580145256::1687159543::1::::<><>::
+exit.gd::GDScript::-1::1687161546::0::1::::<>Button<>::
+icon.svg::CompressedTexture2D::335632209577876104::1687073830::1687073856::1::::<><>::
+License free.txt::TextFile::-1::1580145256::0::1::::<><>::
+License premium.txt::TextFile::-1::1580145256::0::1::::<><>::
+main.gd::GDScript::-1::1687161464::0::1::::<>Control<>::
+main.tscn::PackedScene::3475437685304229015::1687277847::0::1::::<><>::res://main.gd<>uid://dxc3b66wqp88c
+option.gd::GDScript::-1::1687162028::0::1::::<>Control<>::
+option.tscn::PackedScene::8258418267078470608::1687277847::0::1::::<><>::res://option.gd
+play.gd::GDScript::-1::1687277847::0::1::::<>Control<>::
+play.tscn::PackedScene::6318516702885343930::1687277847::0::1::::<><>::res://play.gd
+space.webp::CompressedTexture2D::1791338475284650001::1687158463::1687158662::1::::<><>::
